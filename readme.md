@@ -1,6 +1,14 @@
 # Introduction
 Full instructions on how to query the DMPonline API can be found at: https://github.com/DMPRoadmap/roadmap/wiki/API-documentation
 
+### Requirements
+
+[Python & pip](https://www.python.org/downloads/)  
+
+### Install required python modules
+
+`pip install -r requirements.txt`
+
 ### General info on API usage
 In order to use these scripts a `.env` file is required where login information and URLs are stored. Use the .envexample file to create your own. 
 
